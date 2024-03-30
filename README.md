@@ -1,1 +1,1 @@
-# Assignment1school
+# School-Management
